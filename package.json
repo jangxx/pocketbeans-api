@@ -1,0 +1,24 @@
+{
+  "name": "pocketbeans",
+  "version": "1.0.0",
+  "description": "Proof of concept for a rocketbeans API",
+  "main": "pocketbeans.js",
+  "dependencies": {
+    "moment": "^2.10.3",
+    "request": "^2.58.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jangxx/pocketbeans-api"
+  },
+  "author": "jangxx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jangxx/pocketbeans-api/issues"
+  },
+  "homepage": "https://github.com/jangxx/pocketbeans-api"
+}
